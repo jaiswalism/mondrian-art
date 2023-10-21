@@ -1,2 +1,9 @@
-# mondrian-art
-This repository features a meticulous replica of a Mondrian-inspired artwork entirely crafted using CSS. Experience the versatility of cascading style sheets as they breathe life into precise geometric shapes and vibrant colors, faithfully mirroring the iconic Mondrian style.
+# Mondrian Art CSS Project
+
+A replica of a Mondrian-inspired artwork created using CSS, showcasing the technical prowess of cascading style sheets in web development.
+
+![Mondrian Art Dimensions](dimension.png)
+*Rough dimensions of the Mondrian-inspired artwork.*
+
+![Mondrian Art Replica](goal.png)
+*Final replica of the Mondrian-inspired artwork created using CSS.*
